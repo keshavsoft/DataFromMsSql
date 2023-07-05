@@ -1,0 +1,1 @@
+select rtrim(nam) as [ProductGroup8Name],acc_cod as [pk] from group8_tab
